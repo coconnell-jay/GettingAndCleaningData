@@ -2,9 +2,9 @@
 
 The following files accompany this README file
 
-*run_analysis.R
-*SecondIndependentTinyDataSet.txt
-*CodeBook.md
+* run_analysis.R
+* SecondIndependentTinyDataSet.txt
+* CodeBook.md
 
 To produce the output in SecondIndependentTinyDataSet.txt, simply run the code in run_analysis.R
 
